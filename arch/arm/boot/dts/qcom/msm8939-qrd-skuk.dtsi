@@ -12,6 +12,11 @@
 
 #include "msm8939-qrd.dtsi"
 #include "dsi-panel-nt35596-1080p-skuk-video.dtsi"
+
+#include "D50/dsi-panel-trust_5inch_nt35596_1080p_video.dtsi"
+#include "D50/dsi-panel-tdi_5inch_nt35596_1080p_video.dtsi"
+#include "D50/dsi-panel-boe_5inch_nt35532_1080p_video.dtsi"
+
 #include "msm8939-camera-sensor-qrd.dtsi"
 / {
 	model = "Qualcomm Technologies, Inc. MSM8939 QRD SKUK";
